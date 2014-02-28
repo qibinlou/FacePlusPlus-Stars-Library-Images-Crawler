@@ -3,7 +3,8 @@
 > FacePlusPlus 明星库照片爬虫，用于人脸识别和标注训练
 
 ##How to use
-    # it should work on Mac OX 10.9 with Python 2.x
+    # it works fine on Mac OX 10.9 with Python 2.x(my environment)
+    # Win/Linux should also work
     # add you star list to stars.txt
     # one star for one line
     
