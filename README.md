@@ -12,6 +12,11 @@
     
     # wait for minutes or just watch the console to know the progress
 
+##Source
+* [Face++](http://www.faceplusplus.com.cn/)
+* Star List: [baidu star list](http://news.baidu.cn/f/) , [tencent star list](http://ent.qq.com/c/all_star.shtml)
+
+
 ##Feedback
 * Pull an issue on the repo
 * Contact me: [qibinlou#gmail.com](mailto:qibinlou@gmail.com?Subject=Issues about the FacePP Crawler)    
