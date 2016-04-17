@@ -19,7 +19,7 @@
 
 ##Feedback
 * Pull an issue on the repo
-* Contact me: [qibinlou#gmail.com](mailto:qibinlou@gmail.com?Subject=Issues about the FacePP Crawler)    
+* Contact me: [qibinlou AT hotmail.com]
 
 
 
