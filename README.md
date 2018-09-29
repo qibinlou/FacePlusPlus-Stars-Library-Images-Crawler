@@ -3,6 +3,8 @@
 > FacePlusPlus 明星库照片爬虫，用于人脸识别和标注训练
 
 ## How to use
+[**Deprecated** 09/29/2018] The Face++ CDN image source is gone now so this script cannot work as expected anymore ☹️ There are still a lot of saved star images under `/assets` directory 👻.
+
     - it works fine on Mac OX 10.9 with Python 2.x(my environment)
     - Win/Linux should also work
     - add you star list to stars.txt
@@ -18,10 +20,7 @@
 
 
 ## Feedback
-* Pull an issue on the repo
 * Contact me: [qibinlou AT hotmail.com]
-
-
 
 ## Licence
 **MIT**
