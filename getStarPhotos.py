@@ -4,7 +4,7 @@
 
 
 """getStarPhotos.py文档
-@author: Leo Lou(qibinlou@gmail.com)
+@author: Leo Lou
 @version: 0.1.0
 """
 
